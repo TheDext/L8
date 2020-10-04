@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .header__contact span::after {
   content: "";
-  background: url(/img/arrow.png) no-repeat;
+  background: url(../img/arrow.png) no-repeat;
   width: 12px;
   height: 11px;
   display: inline-block;
@@ -405,7 +405,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog-text__items span:first-child::before {
   display: inline-block;
   content: "";
-  background: url(/img/icons/caledar.png) 0 0 no-repeat;
+  background: url(../img/icons/caledar.png) 0 0 no-repeat;
   width: 14px;
   height: 16px;
   margin: 0 9px 0 0;
@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog-text__items span:nth-child(2)::before {
   display: inline-block;
   content: "";
-  background: url(/img/icons/watch.png) 0 no-repeat;
+  background: url(../img/icons/watch.png) 0 no-repeat;
   width: 17px;
   height: 11.6px;
   margin: 0 5px 0 0;
@@ -421,7 +421,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog-text__items span:last-child::before {
   display: inline-block;
   content: "";
-  background: url(/img/icons/comments.png) 0 no-repeat;
+  background: url(../img/icons/comments.png) 0 no-repeat;
   width: 16px;
   height: 16px;
   margin: 0 5px 0 0;
@@ -464,7 +464,7 @@ h1, h2, h3, h4, h5, h6 {
 .get-body__point::before {
   content: "";
   display: inline-block;
-  background: url(/img/icons/point.png) no-repeat;
+  background: url(../img/icons/point.png) no-repeat;
   width: 50px;
   height: 55px;
   position: absolute;
@@ -481,7 +481,7 @@ h1, h2, h3, h4, h5, h6 {
 .get-body__tel::before {
   content: "";
   display: inline-block;
-  background: url(/img/icons/tel.png) no-repeat;
+  background: url(../img/icons/tel.png) no-repeat;
   width: 60px;
   height: 55px;
   position: absolute;
@@ -497,7 +497,7 @@ h1, h2, h3, h4, h5, h6 {
 .get-body__mail::before {
   content: "";
   display: inline-block;
-  background: url(/img/icons/mail.png) no-repeat;
+  background: url(../img/icons/mail.png) no-repeat;
   width: 60px;
   height: 55px;
   position: absolute;
